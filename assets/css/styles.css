@@ -547,14 +547,14 @@ img {
   margin-left: 45px;
 }
 .entry-header .entry-meta {
-  text-align: center;
-  font-family: Georgia, serif;
-  font-size: 18px;
-  font-size: 1.125rem;
-  font-style: italic;
-  font-weight: normal;
-  color: #a5a5a5;
-  margin: 0 0 15px 0;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    font-size: 1.125rem;
+    font-style: italic;
+    font-weight: normal;
+    color: #6b6b6b;
+    margin: 0 0 15px 0;
 }
 .entry-header .entry-meta a {
   color: #a5a5a5;
