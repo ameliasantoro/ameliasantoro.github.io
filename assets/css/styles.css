@@ -247,14 +247,14 @@ a:hover {
   text-decoration: none;
   color: #333333;
 }
-    #head .tagline {
-        display: block;
-        font-size: 14px;
-        font-size: 0.875rem;
-        line-height: 1.2em;
-        color: black;
-        margin: 5px 0 0;
-    }
+#head .tagline {
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  line-height: 1.2em;
+  color: #7C7C7C;
+  margin: 5px 0 0;
+}
 #head .tagline b {
   font-weight: normal;
 }
@@ -280,12 +280,6 @@ a:hover {
 
 
 **********************************************************************/
-a.anchor {
-    display: block;
-    position: relative;
-    top: -200px;
-    visibility: hidden;
-}
 img {
   max-width: 100%;
 }
@@ -443,7 +437,7 @@ img {
   position: absolute;
   bottom: 15px;
   right: 0;
-  height: 400px;
+  height: 32px;
   line-height: 32px;
   padding: 0 20px;
   -webkit-border-radius: 1px 0 0 1px;
@@ -547,14 +541,14 @@ img {
   margin-left: 45px;
 }
 .entry-header .entry-meta {
-    text-align: center;
-    font-family: Georgia, serif;
-    font-size: 18px;
-    font-size: 1.125rem;
-    font-style: italic;
-    font-weight: normal;
-    color: #6b6b6b;
-    margin: 0 0 15px 0;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  font-size: 1.125rem;
+  font-style: italic;
+  font-weight: normal;
+  color: #a5a5a5;
+  margin: 0 0 15px 0;
 }
 .entry-header .entry-meta a {
   color: #a5a5a5;
